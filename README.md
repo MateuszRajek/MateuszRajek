@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mateusz Rajek
-- 👀 Frontend Developer with experience in React/React Native
+- 👀 Frontend Developer with experience in ReactJS/React Native
 - 📫 How to reach me: mateusz_rajek@wp.pl | https://www.linkedin.com/in/mateusz-rajek-a6a6381b1/
 
 <!---
